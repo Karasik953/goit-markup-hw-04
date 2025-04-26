@@ -12,6 +12,7 @@ ol {
     padding: 0;
 }
 
+<<<<<<< HEAD
 h1,
 h2,
 h3,
@@ -19,6 +20,9 @@ h4,
 h5,
 h6,
 p {
+=======
+h1, h2, h3, h4, h5, h6, p {
+>>>>>>> 1237a14d358ce16f03bf41fc6a761bf824204eda
     margin: 0;
 }
 
@@ -33,26 +37,39 @@ img {
 /* стилі для header */
 .page-header {
     border-bottom: 1px solid #e7e9fc;
+<<<<<<< HEAD
     box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 2px 1px 0 rgba(46, 47, 66, 0.08);
 }
 
+=======
+}
+>>>>>>> 1237a14d358ce16f03bf41fc6a761bf824204eda
 .header-nav {
     display: flex;
     align-items: center;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1237a14d358ce16f03bf41fc6a761bf824204eda
 .nav-list {
     display: flex;
     align-items: center;
     gap: 40px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1237a14d358ce16f03bf41fc6a761bf824204eda
 .contacts-list {
     display: flex;
     align-items: center;
     gap: 40px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1237a14d358ce16f03bf41fc6a761bf824204eda
 .header-container {
     display: flex;
     align-items: center;
@@ -83,8 +100,11 @@ img {
     color: #2e2f42;
 }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 1237a14d358ce16f03bf41fc6a761bf824204eda
 .nav-link {
     display: block;
     padding: 24px 0;
@@ -93,6 +113,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+<<<<<<< HEAD
 
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
@@ -118,6 +139,13 @@ img {
 .nav-link:hover,
 .nav-link:focus,
 .nav-link.current {
+=======
+    
+}
+
+.nav-link:hover,
+.nav-link:focus {
+>>>>>>> 1237a14d358ce16f03bf41fc6a761bf824204eda
     color: #404bbf;
 }
 
@@ -133,7 +161,10 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+<<<<<<< HEAD
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+=======
+>>>>>>> 1237a14d358ce16f03bf41fc6a761bf824204eda
 }
 
 .contacts-link:hover,
@@ -169,7 +200,10 @@ img {
     background-color: #2e2f42;
     padding: 188px 0;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1237a14d358ce16f03bf41fc6a761bf824204eda
 .hone-styles {
     display: block;
     font-weight: 700;
@@ -200,7 +234,11 @@ img {
     width: 169px;
     height: 56px;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+<<<<<<< HEAD
     border: none;
+=======
+    border:none;
+>>>>>>> 1237a14d358ce16f03bf41fc6a761bf824204eda
 
 }
 
@@ -221,11 +259,17 @@ img {
     gap: 24px;
 
 }
+<<<<<<< HEAD
 
 .lishka {
     width: calc((100% - 72px) / 4);
 }
 
+=======
+.lishka {
+    width: calc((100% - 72px) / 4);
+}
+>>>>>>> 1237a14d358ce16f03bf41fc6a761bf824204eda
 .features-section {
     padding: 120px 0
 }
@@ -321,7 +365,10 @@ img {
     text-transform: capitalize;
     margin-bottom: 72px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1237a14d358ce16f03bf41fc6a761bf824204eda
 .our {
     display: flex;
     flex-wrap: wrap;
@@ -331,7 +378,11 @@ img {
 
 .page-li-four {
     width: calc((100% - 48px) / 3);
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> 1237a14d358ce16f03bf41fc6a761bf824204eda
 }
 
 .div-four-sec {
