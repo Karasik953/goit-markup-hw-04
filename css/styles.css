@@ -278,6 +278,36 @@ img {
     color: #434455;
 }
 
+.ul-svg{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.li-svg {
+    width: 40px;
+    height: 40px;
+}
+
+.a-svg {
+    width: 100%;
+    height: 100%;
+    background-color: #4d5ae5;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.a-svg:hover,
+.a-svg:focus{
+    background-color: #404bbf;
+}
+
+.svg-inst {
+    fill: #f4f4fd;
+}
+
 .h-two-section {
     font-weight: 500;
     font-size: 20px;
@@ -314,6 +344,7 @@ img {
     padding: 0px 0px 32px 0px;
     width: 264px;
     height: 380px;
+    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 }
 
 .p-three-section {
