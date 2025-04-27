@@ -168,7 +168,14 @@ img {
 .hone-section {
     background-color: #2e2f42;
     padding: 188px 0;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(/images/people-office\ 1.jpg);
+    background-repeat: no-repeat;
+    max-width:1440px;
+    background-position: center;
+    background-size: cover;
 }
+
+
 
 .hone-styles {
     display: block;
@@ -202,6 +209,7 @@ img {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     border: none;
 
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .sectionone-b:hover,
