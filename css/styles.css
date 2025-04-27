@@ -458,11 +458,6 @@ img {
 
 .p-footer {
     max-width: 264px;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #fff;
 }
 
 .lastik {
@@ -472,16 +467,14 @@ img {
     letter-spacing: 0.02em;
     color: #fff;
     margin-bottom: 16px;
-    /* Відступ для пари тексту */
 }
 
-.footer-socials {
+.footer-svg {
     display: flex;
     gap: 16px;
-    justify-content: center;
 }
 
-.footer-socials a {
+.footer-svg a {
     width: 40px;
     height: 40px;
     background-color: #4d5ae5;
@@ -492,16 +485,13 @@ img {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.footer-socials a:hover,
-.footer-socials a:focus {
+.footer-svg a:hover,
+.footer-svg a:focus {
     background-color: #31d0aa;
 }
 
-.footer-socials svg {
+.footer-svg svg {
+    width: 24px;
+    height: 24px;
     fill: #f4f4fd;
-}
-
-.footer-socials svg:hover {
-    fill: #fff;
-    /* Зміна кольору іконки на hover */
 }
