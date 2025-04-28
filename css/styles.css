@@ -173,6 +173,7 @@ img {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    margin: 0 auto;
 }
 
 
@@ -219,9 +220,7 @@ img {
 
 /* 2 секція */
 
-.main-two-container {
-    padding: 120px 0 120px;
-}
+
 
 .ul-two {
     display: inline-block;
